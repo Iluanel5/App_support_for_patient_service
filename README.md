@@ -3,7 +3,7 @@ Część aplikacji webowej (backend) wspomagającej rejestrację pacjentów w pl
 Użyto Hibernate oraz REST w podstawowym zakresie.<br /><br />
 Aplikacja została zaprojektowana przede wszystkim w celu umożliwienia wymiany danych między interfejsem użytkownika (frontend: https://github.com/Iluanel5/App_support_for_patient_service---frontend)
 a bazą danych (MS SQL): get, delete, post, put.<br />
-Schematy można znaleźć w database_schema.
+Schematy można znaleźć w folderze database.
 Dodatkowo dodano metodę przyjmującą plik ICD10 w formacie xml i zapisującą jej zawartość do bazy danych.<br /><br />
 
 -------------------
